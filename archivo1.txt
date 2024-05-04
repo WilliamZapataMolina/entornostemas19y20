@@ -1,1 +1,2 @@
-prueba en el archivo1
+1.prueba en el archivo1
+2.segunda prueba en el archivo1
